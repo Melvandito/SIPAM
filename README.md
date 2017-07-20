@@ -1,8 +1,8 @@
 # SIHIMASTI
 
 ini stuktur nya aja
-finance masih blm final
-rule jg masih kurang poles lagi
-overall yg ud di situ ud sesuai dengan syarat dr SDI
-mohon review
-thx
+<br>finance masih blm final
+<br>rule jg masih kurang poles lagi
+<br>overall yg ud di situ ud sesuai dengan syarat dr SDI
+<br>mohon review
+<br>thx
