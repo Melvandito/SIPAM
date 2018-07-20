@@ -1,5 +1,5 @@
 # SIPAM
-Sistem Pembayaran Air Minum (PAM)
+## Sistem Pembayaran Air Minum (PAM)
 
 Java Application (Desktop) to pay for "Air Minum" claim.
 Build by Java FX combines with FXML.
